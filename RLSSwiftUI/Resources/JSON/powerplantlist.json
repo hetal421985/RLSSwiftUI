@@ -1,0 +1,44 @@
+[ 
+  {
+      "id": 1,
+      "powerplantName": "kashima",
+      "powerplantImage":"plant_1",
+      "selected": false
+  },
+  {
+      "id": 2,
+      "powerplantName": "kawasaki",
+      "powerplantImage":"plant_2",
+      "selected": false
+  }
+  ,{
+      "id": 3,
+      "powerplantName": "anegasaki",
+      "powerplantImage":"plant_3",
+      "selected": false
+  }
+  ,{
+      "id": 4,
+      "powerplantName": "chiba",
+      "powerplantImage":"plant_4",
+      "selected": false
+  }
+  ,{
+      "id": 5,
+      "powerplantName": "chitadaini",
+      "powerplantImage":"plant_5",
+      "selected": false
+  },
+  {
+      "id": 6,
+      "powerplantName": "chita",
+      "powerplantImage":"plant_3",
+      "selected": false
+  },
+  {
+      "id": 7,
+      "powerplantName": "futtu",
+      "powerplantImage":"plant_1",
+      "selected": false
+  }
+]
